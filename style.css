@@ -441,7 +441,7 @@ figcaption {
         margin: 150px 0 0 0;
     }
     
-    .html-tech{
+    .html-tech,.firebase-tech{
         width: 45px;
         height: 45px;
     }
